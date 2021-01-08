@@ -1,5 +1,5 @@
 # Spam Detection
 
 # Screens 
-<img src="pic_trulli.jpg" alt="">
-<img src="pic_trulli.jpg" alt="">
+<img src="Screen1.PNG" alt="">
+<img src="Screen2.PNG" alt="">
