@@ -22,7 +22,7 @@
 		<!-- Result -->
 		<div class="results">
 			{% if prediction==1 %}
-				<h1>Prediction: <span class='danger'>>Alert..! This is a SPAM message.</span></h1>
+				<h1>Prediction: <span class='danger'> Alert..! This is a SPAM message.</span></h1>
 				<img class="img" src="{{ url_for('static', filename='alert-og-twitter.jpg') }}" alt="SPAM Image">
 			{% elif prediction==0 %}
 				<h1>Prediction: <span class='safe'>Great! This is NOT a spam message.</span></h1>
