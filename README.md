@@ -1,7 +1,8 @@
 # Spam Detection
 # Overview
 Hello all, This spam detecter is build using nltk libraries, Lets take a look at the code.
-Code Part-1
+
+<h3>Code Part-1</h3>
 Import all necessary libraries from nltk.
 
 import re
@@ -12,14 +13,14 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
-Code Part-2
+<h3>Code Part-2</h3>
 Cleaning the messages/data
 <img src="Screen1.png" alt="">
 
-Code Part-3
+<h3>Code Part-3</h3>
 Creating the Bag of Words model
 
-Code Part-4
+<h3>Code Part-4</h3>
 Model Building & prediction
 
 # Screens 
