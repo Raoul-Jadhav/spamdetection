@@ -21,7 +21,7 @@ Sentences are created as vectors to understand by the algorithm.</br>
 
 <h3>Code Part-4</h3>
 Model Building & prediction
-<h5></h5>
+Model is created using Multinomial Naive Bayes algorithm since it performs well for such kind of problem statements
 <img src="Model.PNG" alt="">
 
 # Screens 
