@@ -22,7 +22,7 @@ Sentences are created as vectors to understand by the algorithm.</br>
 <h3>Code Part-4</h3>
 Model Building & prediction
 <h5></h5>
-<img src="Model.png" alt="">
+<img src="Model.PNG" alt="">
 
 # Screens 
 <img src="Screen1.png" alt="">
