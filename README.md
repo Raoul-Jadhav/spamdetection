@@ -7,7 +7,7 @@ Import all necessary libraries from nltk.
 <img src="Libraries1.png" alt="">
 
 <h3>Code Part-2</h3>
-Cleaning the messages/data
+Cleaning the messages/data</br>
 Here for data cleaning, PorterStammer is used for stemming purpose, data is cleaned by applying regular expression.
 <h5>StopWords helps to remove all the stopwords present in sentances.</h5>
 <h5>Corpus is our new cleanned sentances data ready to create vectors.</h5>
