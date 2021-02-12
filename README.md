@@ -4,7 +4,7 @@ Hello all, This spam detecter is build using nltk libraries and for deployment f
 
 <h3>Code Part-1</h3>
 Import all necessary libraries from nltk.
-<img src="Libraries.png" alt="">
+<img src="Libraries1.png" alt="">
 
 <h3>Code Part-2</h3>
 Cleaning the messages/data
