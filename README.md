@@ -31,3 +31,5 @@ Flask web framework is used for deployment and app is hosted on Heroku server.
 # Screens 
 <img src="Screen1.png" alt="">
 <img src="Screen2.png" alt="">
+
+<h3>Demo- https://sms--spam-detection.herokuapp.com/</h3>
