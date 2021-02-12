@@ -24,6 +24,10 @@ Model Building & prediction
 Model is created using Multinomial Naive Bayes algorithm since it performs well for such kind of problem statements
 <img src="Model.PNG" alt="">
 
+# Deployment 
+Flask web framework is used for deployment and app is hosted on Heroku server.
+<img src="Flask.PNG" alt="">
+
 # Screens 
 <img src="Screen1.png" alt="">
 <img src="Screen2.png" alt="">
