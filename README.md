@@ -1,6 +1,6 @@
 # Spam Detection
 # Overview
-Hello all, This spam detecter is build using nltk libraries and for deployment flask framework is used., Lets take a look at the code.
+Hello all, This spam detector is build using nltk libraries and for deployment flask framework is used., Lets take a look at the code.
 
 <h3>Code Part-1</h3>
 Import all necessary libraries from nltk.
